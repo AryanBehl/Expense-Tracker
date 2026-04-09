@@ -31,14 +31,14 @@ button {
   justify-content: space-between;
 }
 
-/* li {
+li {
   display: flex;
   justify-content: space-between;
   margin: 5px 0;
   background: #334155;
   padding: 8px;
   border-radius: 5px;
-} */
+}
 
 .delete-btn {
   background: red;
