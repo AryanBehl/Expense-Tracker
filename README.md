@@ -37,20 +37,6 @@ expense-tracker/
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository
-
-```id="3f7mxn"
-git clone https://github.com/your-username/expense-tracker.git
-```
-
-2. Open the project folder
-
-3. Run the app
-   👉 Open `index.html` in your browser
-
----
 
 ## ⚙️ How It Works
 
@@ -58,18 +44,6 @@ git clone https://github.com/your-username/expense-tracker.git
 * Data is stored in browser using Local Storage
 * App automatically updates balance, income, and expense
 * User can delete any transaction anytime
-
----
-
-## 📸 Preview
-
-(Add your screenshot here)
-
----
-
-## 🌐 Live Demo
-
-(Add GitHub Pages link here)
 
 ---
 
